@@ -1,0 +1,81 @@
+** Drc report for Kicad_Schemactic.kicad_pcb **
+** Created on 2025-03-08T14:28:59+0530 **
+
+** Found 5 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(79.0891 mm, 184.7509 mm): Track [Net-(J10-+BAT)] on F.Cu, length 21.6600 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(81.1596 mm, 185.2204 mm): Track [<no net>] on F.Cu, length 0.0982 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(111.5000 mm, 186.0000 mm): Track [Net-(J10--BAT)] on F.Cu, length 1.7664 mm
+[lib_footprint_mismatch]: Footprint 'SULLINS_PPTC061LFBN-RC' does not match copy in library '6 pin female header'.
+    Local override; warning
+    @(84.1900 mm, 186.0000 mm): Footprint J9
+[lib_footprint_mismatch]: Footprint 'SULLINS_PPTC061LFBN-RC' does not match copy in library '6 pin female header'.
+    Local override; warning
+    @(107.3500 mm, 88.0000 mm): Footprint J1
+
+** Found 14 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(94.0000 mm, 94.6800 mm): PTH pad J1_1 [3v] of U1
+    @(94.0000 mm, 97.2200 mm): PTH pad J1_2 [3v] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(101.0000 mm, 88.0000 mm): PTH pad 1 [3v] of J1
+    @(94.0000 mm, 94.6800 mm): PTH pad J1_1 [3v] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(94.0000 mm, 97.2200 mm): PTH pad J1_2 [3v] of U1
+    @(121.5000 mm, 129.0000 mm): PTH pad 1 [3v] of J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.9200 mm, 69.5000 mm): PTH pad 2 [5v] of J3
+    @(125.3800 mm, 69.5000 mm): PTH pad 1 [5v] of J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.0000 mm, 122.0800 mm): PTH pad 1 [5v] of J7
+    @(88.0000 mm, 127.3400 mm): PTH pad 1 [5v] of J13
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(94.0000 mm, 145.4800 mm): PTH pad J1_21 [5v] of U1
+    @(82.7500 mm, 147.0000 mm): PTH pad 3 [5v] of J12
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(125.3800 mm, 69.5000 mm): PTH pad 1 [5v] of J3
+    @(124.4600 mm, 87.0000 mm): PTH pad 1 [5v] of J6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(78.3800 mm, 68.5000 mm): PTH pad 1 [5v] of J4
+    @(65.3400 mm, 81.0000 mm): PTH pad 1 [5v] of J11
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(94.0000 mm, 104.8400 mm): PTH pad J1_5 [5v] of U1
+    @(88.0000 mm, 122.0800 mm): PTH pad 1 [5v] of J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.0000 mm, 127.3400 mm): PTH pad 1 [5v] of J13
+    @(94.0000 mm, 145.4800 mm): PTH pad J1_21 [5v] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(122.5000 mm, 109.2700 mm): PTH pad 2 [5v] of U3
+    @(124.4600 mm, 87.0000 mm): PTH pad 1 [5v] of J6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(94.0000 mm, 145.4800 mm): PTH pad J1_21 [5v] of U1
+    @(122.5000 mm, 147.8400 mm): PTH pad 1 [5v] of J5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(122.5000 mm, 109.2700 mm): PTH pad 2 [5v] of U3
+    @(94.0000 mm, 104.8400 mm): PTH pad J1_5 [5v] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65.3400 mm, 81.0000 mm): PTH pad 1 [5v] of J11
+    @(94.0000 mm, 104.8400 mm): PTH pad J1_5 [5v] of U1
+
+** Found 0 Footprint errors **
+
+** End of Report **
