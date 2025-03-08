@@ -1,0 +1,59 @@
+ERC report (2025-03-08T14:30:15+0530, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(66.0400 mm, 129.5400 mm): Symbol J3 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(168.9100 mm, 138.4300 mm): Symbol J6 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(167.6400 mm, 125.7300 mm): Symbol J5 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(162.5600 mm, 68.5800 mm): Symbol J2 [PPTC061LFBN-RC]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(153.6700 mm, 64.7700 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(172.7200 mm, 86.3600 mm): Symbol J12 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(229.8700 mm, 54.6100 mm): Symbol J8 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(208.2800 mm, 41.9100 mm): Symbol J9 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(208.2800 mm, 100.3300 mm): Symbol J1 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(193.0400 mm, 45.7200 mm): Symbol J10 [PPTC061LFBN-RC]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(247.6500 mm, 49.5300 mm): Global Label 'BAT-'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(247.6500 mm, 53.3400 mm): Global Label 'BAT+'
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(71.1200 mm, 102.8700 mm): Symbol J4 [PPTC061LFBN-RC]
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(39.3700 mm, 113.0300 mm): Symbol J13 [PPTC061LFBN-RC]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(143.5100 mm, 76.2000 mm): Symbol U1 Pin J1_21 [5V0, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(143.5100 mm, 78.7400 mm): Symbol U1 Pin J1_1 [3V3, Power input, Line]
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; warning
+    @(97.7900 mm, 105.4100 mm): No Connect
+[lib_symbol_issues]: Symbol 'PPTC061LFBN-RC' has been modified in library 'PPTC061LFBN-RC'
+    ; warning
+    @(78.7400 mm, 71.1200 mm): Symbol J11 [PPTC061LFBN-RC]
+
+ ** ERC messages: 18  Errors 3  Warnings 15
